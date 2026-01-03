@@ -1,0 +1,8 @@
+{
+  "name": "SecureVote Accessible System",
+  "description": "An inclusive, secure, and accessible electronic voting system designed for equal electoral participation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
